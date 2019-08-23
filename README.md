@@ -1,2 +1,2 @@
-# react-native-ex
-Carefully designed and developed  beautiful re usable react native components 
+# react-native-bootstrap-buttons
+Carefully designed and developed  beautiful re usable react native twitter bootstrap like buttons 
